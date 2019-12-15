@@ -1,0 +1,13 @@
+C:\Users\can\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\can\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\can\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\can\source\repos\LoginForm\LoginForm\bin\Debug\MetroFramework.Design.dll
+C:\Users\can\source\repos\LoginForm\LoginForm\bin\Debug\MetroFramework.dll
+C:\Users\can\source\repos\LoginForm\LoginForm\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\can\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csprojAssemblyReference.cache
+C:\Users\can\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\can\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\can\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\can\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CopyComplete
+C:\Users\can\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\can\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
